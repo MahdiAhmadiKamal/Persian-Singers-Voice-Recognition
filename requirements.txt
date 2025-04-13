@@ -1,0 +1,7 @@
+ipython
+matplotlib
+numpy
+pydub
+spleeter
+tensorflow
+tensorflow_intel
