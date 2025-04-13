@@ -3,7 +3,7 @@
 
 <img src="pics\audio-preprocessing-feature-extraction-machine-learning-based-classification.png" width="600">
 
-This deep learning project belongs to voice classification of 5 persian singers. This project is built with the aid of [pydub](https://github.com/jiaaro/pydub). Finally, a telegram bot has been created that receives the song and predicts the name of the singer.
+This deep learning project is about recognizing the voices of 5 persian singers. This project is built with the aid of [pydub](https://github.com/jiaaro/pydub). Finally, a telegram bot has been created that receives the song and predicts the name of the singer.
 
 
 ## How to install
